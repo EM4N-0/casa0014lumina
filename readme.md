@@ -15,4 +15,6 @@ Therefore, I decided to go with a cyclinder shape that looked like a sky lantern
 
 ## Chrono Lumina Sun x Moon Lamp Final Prototype
 ![Pic Of Final Lamp Prototype](pictures/finallamp.jpg)
+
+
  
