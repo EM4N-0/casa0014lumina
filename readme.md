@@ -44,6 +44,8 @@ I started making the cyclinder enclosure literally based off the image of a cycl
 
  skylamp (no date). Available at: https://www.freepik.com/free-vector/gradient-lantern-festival-background_21665748.htm#fromView=keyword&page=1&position=0&uuid=9ec4c0e5-4f80-414e-a537-e2b3975c8f10.
 
+ Sample Code for Sensor Provided by Manufacturer: https://wiki.dfrobot.com/TEMT6000_ambient_light_sensor_SKU_SEN0043#target_4
+
 
 
 
