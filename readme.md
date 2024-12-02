@@ -36,6 +36,8 @@ I intitially though I would have to write a string for the light sensor to then 
 -Draw more sketches:
 I started making the cyclinder enclosure literally based off the image of a cyclinder in my head. I did not draw multiple sketches where I could have perhaps explored different shapes and approaches.
 
+. 
+
 
 
  ### References
