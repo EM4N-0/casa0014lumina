@@ -7,6 +7,14 @@ Based on the assessment brief my Chrono Lumina interface uses a light sensor as 
 ## How does it work?
 My Chrono Lumina "Sun and Moon" is a very simple project that uses a light sensor to change the colour of my Chrono Lumina depending on how bright or dark it is outside. The sensor I use is the Gravity: Analog Ambient Light Sensor TEMT6000, which detetcts how much light intensity there is and sends this value as a voltage signal to my arduino. It has an illumantion range between 1-1000 lux and therefore for my project any voltage signal above 500 will turn my Chrono Lumina Yellow to signify that it is daytime and anything below will turn it white to signify that it is nightime. The colour of the LED within the enclosure and my Chrono Lumina will both simulatenously change colours. 
 
+## Circuit 
+![Schematic of Circuit](pictures/CircuitDiagram.jpg)
+The circuit was relatively straightforward to connect, perhaps in afuture iteration I'd have an extra sensor to make the device showcase something else.
+
+## IoT Architecture Basic Flowdiagram
+![Simple IoT Flow Diagram](pictures/CASA0014Diagram.drawio.png)
+This diagram gives a basic overview of how the Chrono Lumina functions from the moment the sensors reads data all the way to the Chrono Lumina changing colour. Refer to Blog for better explanantion.
+
 
 ### Initial Design Inspiration 
 
@@ -45,6 +53,14 @@ I started making the cyclinder enclosure literally based off the image of a cycl
  skylamp (no date). Available at: https://www.freepik.com/free-vector/gradient-lantern-festival-background_21665748.htm#fromView=keyword&page=1&position=0&uuid=9ec4c0e5-4f80-414e-a537-e2b3975c8f10.
 
  Sample Code for Sensor Provided by Manufacturer: https://wiki.dfrobot.com/TEMT6000_ambient_light_sensor_SKU_SEN0043#target_4
+
+ ### Interesting IoT Articles from Blog
+
+ Banafa, A. (2017) Three Major Challenges Facing IoT - IEEE Internet of Things, iot.ieee.org. Available at: https://iot.ieee.org/articles-publications/newsletter/march-2017/three-major-challenges-facing-iot (Accessed: 14 May 2024).
+
+Elijah, O. et al. (2018) ‘An Overview of Internet of Things (IoT) and Data Analytics in Agriculture: Benefits and Challenges’, IEEE Internet of Things Journal, 5(5), pp. 3758–3773. Available at: https://doi.org/10.1109/jiot.2018.2844296.
+
+Turgut, D. and Boloni, L. (2017) ‘Value of Information and Cost of Privacy in the Internet of Things’, IEEE Communications Magazine, 55(9), pp. 62–66. Available at: https://doi.org/10.1109/mcom.2017.1600625
 
 
 
